@@ -1,1 +1,2 @@
-# Guess_the_number_game from Recursion.
+# Guess_the_number_game.
+ユーザーが2つの数字を入力すると、プログラムがnからmの範囲内で乱数を生成します。その後、ユーザーは乱数を正しく推測するまで、ゲームループの中で繰り返し数字を入力することになります。
